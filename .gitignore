@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+pretrained_model/deepfillv2_WGAN_G_epoch40_batchsize4.pth
+results2/
